@@ -1,0 +1,25 @@
+ient Requirements*
+------------------------
+
+* Track company assets
+* Assign assets to employees
+
+*Creative Freedoms*
+----------------------
+
+* Product name: AssetTracker
+* Scope: Web-based application with basic CRUD operations
+
+*Assumptions*
+----------------
+
+* Client has a list of employees and assets
+* Client wants to track asset location, employee details, and assignment history
+
+*Features*
+-------------
+
+* Employee management (add, edit, delete)
+* Asset management (add, edit, delete)
+* Assign/unassign assets to employees
+* View assignment history
